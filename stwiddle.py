@@ -50,7 +50,7 @@ giving_up = 0
 
 while(giving_up < 4):
   print("# Speed: {} mph".format(target_speed))
-  p, best_err = twiddle(target_speed=target_speed, p=p)
+  p, best_err = twiddle(target_speed=target_speed, p=p, r=5, tol=0.03)
   print("Speed: {}, attained a lowest penalty of {} with parameters {}".format(target_speed, best_err, p))
   if (best_err < 5000.0):
     target_speed += d_speed
