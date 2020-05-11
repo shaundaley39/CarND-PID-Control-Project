@@ -1,8 +1,10 @@
+#!/usr/bin/env python
+
 import os
 import signal
 import subprocess
 from subprocess import Popen, PIPE
-import time
+
 
 def run(speed, frames, p):
     simulator_process = subprocess.Popen("~/term2_sim_linux/term2_sim.x86_64", shell=True, preexec_fn=os.setsid, stdout=PIPE)
@@ -47,6 +49,7 @@ p = [0.1, 0.0002, 0.2]
 giving_up = 0
 
 while(giving_up < 4):
+  print("# Speed: {} mph".format(target_speed))
   p, best_err = twiddle(target_speed=20, p = p)
   print("Speed: {}, attained a lowest penalty of {} with parameters {}".format(target_speed, best_err, p))
   if (best_err < 5000.0):
