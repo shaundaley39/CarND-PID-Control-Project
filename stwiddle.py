@@ -19,7 +19,7 @@ def run(speed, frames, p):
 def twiddle(target_speed=20, p = [0.1, 0.0002, 0.2], r=10, tol=0.01):
     wp = [1 / i for i in p]
     dp = [0.1 * i for i in p]
-    frames = 100 + (12000 / target_speed )
+    frames = 100 + (16000 / target_speed )
     f = [(r-1.0) / r, (r+1.0) / r]
     best_err = run(target_speed, frames, p)
     it = 0
@@ -45,12 +45,13 @@ def twiddle(target_speed=20, p = [0.1, 0.0002, 0.2], r=10, tol=0.01):
 
 target_speed = 20.0
 d_speed = 10.0
-p = [0.1, 0.0002, 0.2]
+#p = [0.1, 0.0002, 0.2]
+p = [0.11, 0.0003, 0.19]
 giving_up = 0
 
-while(giving_up < 4):
+while(giving_up < 5):
   print("# Speed: {} mph".format(target_speed))
-  p, best_err = twiddle(target_speed=target_speed, p=p, r=5, tol=0.03)
+  p, best_err = twiddle(target_speed=target_speed, p=p, r=4, tol=0.03)
   print("Speed: {}, attained a lowest penalty of {} with parameters {}".format(target_speed, best_err, p))
   if (best_err < 5000.0):
     target_speed += d_speed
