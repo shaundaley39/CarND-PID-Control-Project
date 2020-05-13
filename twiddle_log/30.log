@@ -1,0 +1,83 @@
+$ ./stwiddle.py 
+# Speed: 30 mph
+applied penalty: 41.0983
+Iteration 0, with p: [0.14470091325, 0.000246573357447, 0.49126058289484], best error = 41.0983
+applied penalty: 59.0838
+applied penalty: 55.1473
+applied penalty: 42.0585
+applied penalty: 43.1028
+applied penalty: 38.7189
+Iteration 1, with p: [0.14470091324999998, 0.00024657335744699994, 0.540386641184324], best error = 38.7189
+applied penalty: 37.4541
+applied penalty: 34.0394
+applied penalty: 29.5084
+Iteration 2, with p: [0.15555348174374997, 0.00026506635925552496, 0.6017942140461789], best error = 29.5084
+applied penalty: 26.3628
+applied penalty: 27.0428
+applied penalty: 29.5546
+applied penalty: 29.8737
+applied penalty: 51.7563
+Iteration 3, with p: [0.16911919236093748, 0.00026506635925552496, 0.6017942140461789], best error = 26.3628
+applied penalty: 15.9139
+applied penalty: 24.8283
+applied penalty: 21.8591
+applied penalty: 24.085
+applied penalty: 64.8103
+Iteration 4, with p: [0.18607633063242185, 0.000265066359255525, 0.6017942140461788], best error = 15.9139
+applied penalty: 1.32048e+06
+applied penalty: 25.3314
+applied penalty: 24.0444
+applied penalty: 34.6557
+applied penalty: 23.2067
+applied penalty: 29.4472
+Iteration 5, with p: [0.18607633063242185, 0.000265066359255525, 0.6017942140461787], best error = 15.9139
+applied penalty: 178.012
+applied penalty: 27.6044
+applied penalty: 24.8753
+applied penalty: 18.6484
+applied penalty: 27.781
+applied penalty: 30.7714
+Iteration 6, with p: [0.18607633063242188, 0.000265066359255525, 0.6017942140461788], best error = 15.9139
+applied penalty: 72.6239
+applied penalty: 24.8508
+applied penalty: 18.1488
+applied penalty: 24.3817
+applied penalty: 20.2283
+applied penalty: 42.0132
+Iteration 7, with p: [0.18607633063242185, 0.000265066359255525, 0.6017942140461788], best error = 15.9139
+applied penalty: 19.0956
+applied penalty: 23.7444
+applied penalty: 23.4241
+applied penalty: 22.3089
+applied penalty: 19.4276
+applied penalty: 22.1882
+Iteration 8, with p: [0.18607633063242185, 0.00026506635925552507, 0.6017942140461788], best error = 15.9139
+applied penalty: 20.4762
+applied penalty: 24.2473
+applied penalty: 19.6287
+applied penalty: 18.9302
+applied penalty: 17.5856
+applied penalty: 21.571
+Iteration 9, with p: [0.18607633063242182, 0.00026506635925552507, 0.6017942140461789], best error = 15.9139
+applied penalty: 24.9301
+applied penalty: 26.8012
+applied penalty: 17.5884
+applied penalty: 26.302
+applied penalty: 22.0608
+applied penalty: 22.6886
+Iteration 10, with p: [0.1860763306324218, 0.00026506635925552507, 0.6017942140461789], best error = 15.9139
+applied penalty: 22.6
+applied penalty: 20.471
+applied penalty: 21.6001
+applied penalty: 21.2566
+applied penalty: 23.9047
+applied penalty: 19.2304
+Iteration 11, with p: [0.1860763306324218, 0.00026506635925552507, 0.6017942140461789], best error = 15.9139
+applied penalty: 27.4745
+applied penalty: 17.2373
+applied penalty: 18.0039
+applied penalty: 21.9916
+applied penalty: 22.6074
+applied penalty: 27.1354
+Speed: 30, attained a lowest penalty of 15.9139 with parameters [0.18607633063242177, 0.00026506635925552507, 0.6017942140461789]
+^C
