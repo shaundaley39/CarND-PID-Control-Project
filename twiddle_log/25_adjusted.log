@@ -1,0 +1,79 @@
+# Speed: 25.0 mph
+applied penalty: 19382.7
+Iteration 0, with p: [0.16077879250034421, 0.00021390301425424325, 0.4197687223667514], best error = 19382.7
+applied penalty: 6.75536e+06
+applied penalty: 27369.8
+applied penalty: 19378.2
+applied penalty: 16358
+Iteration 1, with p: [0.16077879250034421, 0.00023529331567966757, 0.4617455946034265], best error = 16358.0
+applied penalty: 17359.5
+applied penalty: 25351.7
+applied penalty: 16347.2
+applied penalty: 19338.6
+applied penalty: 24402.6
+Iteration 2, with p: [0.16077879250034421, 0.00026203119246144795, 0.46174559460342646], best error = 16347.2
+applied penalty: 17353.6
+applied penalty: 22346.8
+applied penalty: 20349.7
+applied penalty: 20355.3
+applied penalty: 18341.5
+applied penalty: 20377
+Iteration 3, with p: [0.16077879250034421, 0.00026203119246144795, 0.4617455946034265], best error = 16347.2
+applied penalty: 15350.2
+applied penalty: 15349.1
+applied penalty: 16333.3
+applied penalty: 15369.1
+Iteration 4, with p: [0.1675616478089525, 0.0002870979519443671, 0.46174559460342646], best error = 15349.1
+applied penalty: 15337
+applied penalty: 19345.9
+applied penalty: 17352.4
+applied penalty: 15346.1
+applied penalty: 20355.8
+Iteration 5, with p: [0.17604021694471284, 0.000287097951944367, 0.46174559460342646], best error = 15337.0
+applied penalty: 15350
+applied penalty: 17355.1
+applied penalty: 720076
+applied penalty: 3.1728
+applied penalty: 3.3687
+applied penalty: 3.5022
+Iteration 6, with p: [0.17604021694471286, 0.00026359786492913034, 0.4617455946034264], best error = 3.1728
+applied penalty: 3.4642
+applied penalty: 3.4391
+applied penalty: 3.3272
+applied penalty: 3.088
+applied penalty: 2.7606
+Iteration 7, with p: [0.17604021694471284, 0.0002342227561600845, 0.47419723028886596], best error = 2.7606
+applied penalty: 7.1297
+applied penalty: 7.7847
+applied penalty: 8.4328
+applied penalty: 8.4328
+applied penalty: 9.0757
+applied penalty: 9.5542
+Iteration 8, with p: [0.17604021694471286, 0.00023422275616008452, 0.47419723028886596], best error = 2.7606
+applied penalty: 16.372
+applied penalty: 16.8557
+applied penalty: 17.3495
+applied penalty: 17.7145
+applied penalty: 18.188
+applied penalty: 18.3096
+Iteration 9, with p: [0.17604021694471284, 0.0002342227561600845, 0.47419723028886596], best error = 2.7606
+applied penalty: 18.8329
+applied penalty: 19.2404
+applied penalty: 19.6212
+applied penalty: 20.1786
+applied penalty: 20.6158
+applied penalty: 21.6755
+Iteration 10, with p: [0.17604021694471284, 0.0002342227561600845, 0.47419723028886596], best error = 2.7606
+applied penalty: 21.9948
+applied penalty: 21.9948
+applied penalty: 22.826
+applied penalty: 23.5121
+applied penalty: 24.2042
+applied penalty: 24.7209
+Iteration 11, with p: [0.17604021694471284, 0.0002342227561600845, 0.4741972302888659], best error = 2.7606
+applied penalty: 25.2513
+applied penalty: 26.368
+applied penalty: 27.2583
+applied penalty: 28.1394
+applied penalty: 28.8269
+^C

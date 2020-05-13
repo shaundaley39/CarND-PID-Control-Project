@@ -1,0 +1,106 @@
+# Speed: 27.5 mph
+applied penalty: 6.0543e+06
+Iteration 0, with p: [0.17604021694471284, 0.0002342227561600845, 0.4741972302888659], best error = 6054300.0
+applied penalty: 5.20339e+06
+applied penalty: 5.02637e+06
+applied penalty: 18448.5
+Iteration 1, with p: [0.19364423863918412, 0.00025764503177609296, 0.5216169533177525], best error = 18448.5
+applied penalty: 1.35712e+06
+applied penalty: 18342
+applied penalty: 13342.7
+applied penalty: 14324.5
+applied penalty: 5.53329e+06
+Iteration 2, with p: [0.17163921152109501, 0.0002869228762961035, 0.5216169533177524], best error = 13342.7
+applied penalty: 37525.7
+applied penalty: 21324.3
+applied penalty: 13321.6
+applied penalty: 14316.9
+applied penalty: 18342.2
+Iteration 3, with p: [0.17163921152109501, 0.0003235201819461167, 0.5216169533177524], best error = 13321.6
+applied penalty: 19437.1
+applied penalty: 22332.5
+applied penalty: 16333
+applied penalty: 14334.7
+applied penalty: 14324.6
+applied penalty: 19353.5
+Iteration 4, with p: [0.17163921152109501, 0.00032352018194611675, 0.5216169533177524], best error = 13321.6
+applied penalty: 4.75325e+06
+applied penalty: 21322.5
+applied penalty: 14344
+applied penalty: 14330.5
+applied penalty: 12324.2
+Iteration 5, with p: [0.17163921152109504, 0.0003235201819461167, 0.5466234478837668], best error = 12324.2
+applied penalty: 12352
+applied penalty: 19324.1
+applied penalty: 13314.1
+applied penalty: 13321.1
+applied penalty: 16328.6
+applied penalty: 18331.1
+Iteration 6, with p: [0.17163921152109501, 0.0003235201819461167, 0.5466234478837668], best error = 12324.2
+applied penalty: 11330.2
+applied penalty: 13352.2
+applied penalty: 14344.1
+applied penalty: 12340.9
+applied penalty: 13356.3
+Iteration 7, with p: [0.18034237166057362, 0.00032352018194611664, 0.5466234478837669], best error = 11330.2
+applied penalty: 9387.64
+applied penalty: 8374.79
+applied penalty: 9378.6
+applied penalty: 12402.1
+Iteration 8, with p: [0.19122132183492188, 0.00033799470224714725, 0.5466234478837669], best error = 8374.79
+applied penalty: 41555.3
+applied penalty: 13343.8
+applied penalty: 8365.84
+applied penalty: 11371.7
+applied penalty: 13376.8
+Iteration 9, with p: [0.19122132183492188, 0.0003560878526234355, 0.5466234478837669], best error = 8365.84
+applied penalty: 13431.7
+applied penalty: 12341.7
+applied penalty: 9363.57
+applied penalty: 9369.3
+applied penalty: 10354
+applied penalty: 11376.8
+Iteration 10, with p: [0.19122132183492185, 0.0003560878526234355, 0.546623447883767], best error = 8365.84
+applied penalty: 10398.1
+applied penalty: 13346.3
+applied penalty: 12368.5
+applied penalty: 9375.85
+applied penalty: 10373
+applied penalty: 9371
+Iteration 11, with p: [0.19122132183492188, 0.0003560878526234355, 0.546623447883767], best error = 8365.84
+applied penalty: 10413.6
+applied penalty: 12359.5
+applied penalty: 11373.9
+applied penalty: 9365.53
+applied penalty: 10369.1
+applied penalty: 10380.5
+Iteration 12, with p: [0.1912213218349219, 0.00035608785262343544, 0.546623447883767], best error = 8365.84
+applied penalty: 9401.3
+applied penalty: 9354.45
+applied penalty: 9366.98
+applied penalty: 10381.1
+applied penalty: 11365.7
+applied penalty: 12379.4
+Iteration 13, with p: [0.1912213218349219, 0.00035608785262343544, 0.546623447883767], best error = 8365.84
+applied penalty: 9391.76
+applied penalty: 11367.6
+applied penalty: 9376.62
+applied penalty: 11377.2
+applied penalty: 10363.8
+applied penalty: 11386.3
+Iteration 14, with p: [0.1912213218349219, 0.00035608785262343544, 0.5466234478837669], best error = 8365.84
+applied penalty: 10372
+applied penalty: 11363.6
+applied penalty: 10367.2
+applied penalty: 9366.45
+applied penalty: 10393.6
+applied penalty: 8385.65
+Iteration 15, with p: [0.1912213218349219, 0.0003560878526234354, 0.546623447883767], best error = 8365.84
+applied penalty: 9374.12
+applied penalty: 7368
+applied penalty: 11373
+applied penalty: 8363.87
+applied penalty: 8376.1
+applied penalty: 11363.5
+Speed: 27.5, attained a lowest penalty of 7368.0 with parameters [0.1894061161440574, 0.0003560878526234354, 0.546623447883767]
+

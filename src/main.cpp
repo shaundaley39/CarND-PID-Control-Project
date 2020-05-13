@@ -92,12 +92,14 @@ int main(int argc, char** argv) {
               std::cout << "Penalty: " << twid.penalty << std::endl;
               exit(0);
             }
-            double pen = pow(std::max(fabs(cte) - 1.0, 0.0), 4);
-            if ((pen > 81) || ((twid.init_frames - twid.frames > 100) && (speed < target_speed - 10))){
+            double pen = fabs(cte);
+            if ((pen > 2.5) || ((twid.init_frames - twid.frames > 100) && (speed < target_speed - 10))){
               pen += 10000 * (twid.init_frames - twid.frames);
               twid.penalty += pen;
               std::cout << "Penalty: " << twid.penalty << std::endl;
               exit(0);
+            } else if (pen > 1.75){
+              pen += 1000;
             }
             twid.penalty += pen;
             twid.frames--;
