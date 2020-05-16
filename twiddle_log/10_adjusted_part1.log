@@ -1,0 +1,60 @@
+$ ./stwiddle.py 
+# Speed: 10.0 mph
+applied penalty: 486.152
+Iteration 0, with p: [0.27914170659734683, 0.00023587206696670983, 0.48516144939068373], best error = 486.152
+applied penalty: 468.037
+applied penalty: 467.707
+applied penalty: 457.175
+Iteration 1, with p: [0.3070558772570815, 0.0002594592736633808, 0.5336775943297521], best error = 457.175
+applied penalty: 430.065
+applied penalty: 434.754
+applied penalty: 428.228
+applied penalty: 419.085
+Iteration 2, with p: [0.34194859058174987, 0.00022997526529254208, 0.5943227755035876], best error = 419.085
+applied penalty: 379.112
+applied penalty: 378.82
+applied penalty: 365.647
+Iteration 3, with p: [0.3855644822375853, 0.0002668302757560905, 0.6701292519708819], best error = 365.647
+applied penalty: 325.875
+applied penalty: 314.416
+applied penalty: 306.295
+Iteration 4, with p: [0.4400843468073796, 0.000312899038835526, 0.7648873475549998], best error = 306.295
+applied penalty: 292.577
+applied penalty: 290.839
+applied penalty: 293.873
+applied penalty: 288.483
+Iteration 5, with p: [0.5082341775196225, 0.0003704849926848204, 0.6464397280748524], best error = 288.483
+applied penalty: 303.592
+applied penalty: 355.075
+applied penalty: 309.03
+applied penalty: 315.876
+applied penalty: 302.055
+applied penalty: 303.811
+Iteration 6, with p: [0.5082341775196226, 0.0003704849926848204, 0.6464397280748524], best error = 288.483
+applied penalty: 277.078
+applied penalty: 274.748
+applied penalty: 299.735
+applied penalty: 311.305
+Iteration 7, with p: [0.5721246438123504, 0.00042447182441853387, 0.6464397280748524], best error = 274.748
+applied penalty: 280.411
+applied penalty: 309.084
+applied penalty: 308.324
+applied penalty: 299.143
+applied penalty: 297.01
+applied penalty: 315.556
+Iteration 8, with p: [0.5721246438123503, 0.00042447182441853387, 0.6464397280748524], best error = 274.748
+applied penalty: 297.336
+applied penalty: 312.972
+applied penalty: 307.847
+applied penalty: 305.091
+applied penalty: 298.478
+applied penalty: 309.216
+Iteration 9, with p: [0.5721246438123504, 0.0004244718244185339, 0.6464397280748523], best error = 274.748
+applied penalty: 299.447
+applied penalty: 306.987
+applied penalty: 302.305
+applied penalty: 304.943
+applied penalty: 292.266
+applied penalty: 309.833
+Iteration 10, with p: [0.5721246438123504, 0.00042447182441853387, 0.6464397280748522], best error = 274.748
+^C
