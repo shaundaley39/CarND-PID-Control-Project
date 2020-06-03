@@ -44,8 +44,8 @@ int main(int argc, char** argv) {
     pid_steering = PID(atof(argv[3]), atof(argv[4]), atof(argv[5]));
   } else {
     twid = {false, 0, 0, 0};
-    target_speed = 20;
-    pid_steering = PID(0.1, 0.0002, 0.2);
+    target_speed = 30.0;
+    pid_steering = PID(0.1849133535659692, 0.0003268806625662861, 0.599252527996821);
   }
   std::cout << "Twid: "<< twid.twiddling <<" with target speed: "<<target_speed<<std::endl;
 
