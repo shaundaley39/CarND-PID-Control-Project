@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
   bool twiddle = (argc > 1);
   twiddle_helper twid;
   if (argc > 1){
-    twid = {true, atof(argv[2]), atof(argv[2]), 0};
+    twid = {true, atoi(argv[2]), atoi(argv[2]), 0};
     target_speed = atof(argv[1]);;
     pid_steering = PID(atof(argv[3]), atof(argv[4]), atof(argv[5]));
   } else {
